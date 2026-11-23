@@ -1,5 +1,8 @@
-**Apps:** 
+**My Apps:** 
+[Markup](https://github.com/nikstar/Markup) &middot; 
 [Sweep](https://github.com/nikstar/sweep) &middot; 
+[G Reader](https://github.com/nikstar/greader) &middot;
+[Healthy Twitter](https://github.com/nikstar/healthy-twitter) &middot; 
 [Caffeinate](https://github.com/nikstar/Caffeinate) &middot; 
 [Stickers for Telegram](https://github.com/nikstar/stickers-app) &middot; 
 *3 secret projects coming soon* 🍃
@@ -12,7 +15,3 @@
 [AsyncButton](https://github.com/nikstar/swiftui-asyncbutton) &middot; 
 *Archive:*
 [CLInterface](https://github.com/nikstar/CLInterface) 📜
-
-**More Cool Stuff:**
-[G Reader](https://github.com/nikstar/greader) &middot;
-[Blog](https://nikstar.me) ([source](https://github.com/nikstar/blog)) 📖✨
